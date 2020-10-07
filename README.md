@@ -13,7 +13,7 @@ https://codepen.io/nirastor/full/VwvQWBd
 
 4. Основа сайта из «квадратов». Grid, только для десктопа.
 https://nirastor.github.io/tilesForLawyers/
-Пример который хотелось повторить — https://www.tp-law.ru/
+Пример, который хотелось повторить — https://www.tp-law.ru/
 
 
 ## Тестовые задания:
