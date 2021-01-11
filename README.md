@@ -22,10 +22,13 @@ https://nirastor.github.io/pref/
 2. **JS.** Визуализация семантического разбора текста. Только визуализация, сам разбор случайный.  
 https://nirastor.github.io/text-parsing/
 
-3. **CSS-арт.** Отрисовка Xiaomi Redmi 4A на html/css.  
+3. **CSS-арт.** Виртуальная клавиатура. ПОка только CSS-арт, интерактивность дорабатываю.  
+https://github.com/nirastor/keyboard
+
+4. **CSS-арт.** Отрисовка Xiaomi Redmi 4A на html/css.  
 https://codepen.io/nirastor/full/VwvQWBd
 
-4. **Верстка, CSS, Grid**. Основа сайта из «квадратов». Grid, только для десктопа.  
+5. **Верстка, CSS, Grid**. Основа сайта из «квадратов». Grid, только для десктопа.  
 https://nirastor.github.io/tilesForLawyers/  
 Пример, который хотелось повторить — https://www.tp-law.ru/
 
