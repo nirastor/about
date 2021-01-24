@@ -1,4 +1,7 @@
 # about
+## React
+1. Тестовое задание на Реакт. Рассчет площади фигур. https://github.com/nirastor/square/
+
 ## Учебные задания
 1. **JS.** Логика, ИИ и взаимодействие с пользователем для игры — пошаговой стратегии. По готовой верстке. https://github.com/nirastor/ajs-10-diploma
 1. **JS.** Drag-n-drop. Копия трелло. https://github.com/nirastor/ahj-6-1-likeTrello
