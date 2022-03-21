@@ -1,4 +1,7 @@
 # about
+## Тестовые 2022
+1. Тестовое задание. Чистый JS + Canvas. https://github.com/nirastor/meta-quotes-test/
+
 ## React
 1. Тестовое задание на Реакт. Рассчет площади фигур. https://github.com/nirastor/square/
 
