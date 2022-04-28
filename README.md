@@ -1,6 +1,6 @@
 # about
 ## Тестовые 2022
-1. Тестовое задание. «Классика». Список постов и просмотр поста. Vue, router, vuetify. https://github.com/nirastor/t1-posts
+1. Тестовое задание. Список постов и просмотр поста. Vue, router, vuetify. https://github.com/nirastor/t1-posts
 2. Тестовое задание. Чистый JS + Canvas. https://github.com/nirastor/meta-quotes-test/
 
 ## Тестовые и учебные 2019-2020
