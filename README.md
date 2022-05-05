@@ -1,7 +1,8 @@
 # about
 ## Тестовые 2022
+1. Тестовое задание. Таблица и график на тестовых данных. Vue, bootstrap, сhart-js, ограничение по времени. https://github.com/nirastor/pangeo-radar
 1. Тестовое задание. Список постов и просмотр поста. Vue, router, vuetify. https://github.com/nirastor/t1-posts
-2. Тестовое задание. Чистый JS + Canvas. https://github.com/nirastor/meta-quotes-test/
+1. Тестовое задание. Чистый JS + Canvas. https://github.com/nirastor/meta-quotes-test/
 
 ## Тестовые и учебные 2019-2020
 ### React
