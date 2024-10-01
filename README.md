@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 2023-2024
-https://www.youtube.com/watch?v=1Rz40COOp0Y
+From scratch to prodaction, in a team of 4 frontend developers and two manual testers, analyst, etc., I created a Noventiq Subscription Service. Service allows you to purchase subscriptions and manage them using the Customer Control Panel. Code is under NDA but here is marketing description — https://www.youtube.com/watch?v=1Rz40COOp0Y
 
 ## 2021-2022
 https://ly.corp.rosmedex.ru/
